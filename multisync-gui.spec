@@ -1,5 +1,5 @@
 Summary:	OpenSync data synchronization GUI
-Summary(pl):	Graficzny interfejs synchronizacji danych OpenSync
+Summary(pl.UTF-8):   Graficzny interfejs synchronizacji danych OpenSync
 Name:		multisync-gui
 Version:	0.90.19
 Release:	0.1
@@ -20,14 +20,14 @@ a powerful sync-engine and the framework itself.
 
 This package contains GUI to use OpenSync framework.
 
-%description -l pl
-OpenSync to niezale¿ny od platformy i dystrybucji szkielet do
+%description -l pl.UTF-8
+OpenSync to niezaleÅ¼ny od platformy i dystrybucji szkielet do
 synchronizacji danych.
 
-Sk³ada siê z ró¿nych wtyczek, których mo¿na u¿ywaæ do ³±czenia z
-urz±dzeniami, potê¿nego silnika synchronizacji oraz samego szkieletu.
+SkÅ‚ada siÄ™ z rÃ³Å¼nych wtyczek, ktÃ³rych moÅ¼na uÅ¼ywaÄ‡ do Å‚Ä…czenia z
+urzÄ…dzeniami, potÄ™Å¼nego silnika synchronizacji oraz samego szkieletu.
 
-Ten pakiet zawiera graficzny interfejs u¿ytkownika do korzystania
+Ten pakiet zawiera graficzny interfejs uÅ¼ytkownika do korzystania
 ze szkieletu OpenSync.
 
 %prep
