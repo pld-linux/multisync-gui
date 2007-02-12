@@ -1,5 +1,5 @@
 Summary:	OpenSync data synchronization GUI
-Summary(pl.UTF-8):   Graficzny interfejs synchronizacji danych OpenSync
+Summary(pl.UTF-8):	Graficzny interfejs synchronizacji danych OpenSync
 Name:		multisync-gui
 Version:	0.90.19
 Release:	0.1
