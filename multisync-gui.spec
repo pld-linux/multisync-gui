@@ -2,7 +2,7 @@ Summary:	OpenSync data synchronization GUI
 Summary(pl.UTF-8):	Graficzny interfejs synchronizacji danych OpenSync
 Name:		multisync-gui
 Version:	0.90.19
-Release:	0.1
+Release:	1
 License:	GPL
 Group:		Applications
 Source0:	http://www.opensync.org/attachment/wiki/download/%{name}-%{version}.tar.gz?format=raw
